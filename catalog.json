@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "updated_at": "2026-09-26",
-  "total_books": 35,
+  "total_books": 52,
   "books": [
     {
       "id": "bn-maturidia",
@@ -387,6 +387,193 @@
       "total_paragraphs": 53,
       "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_yahodi_khristan_ra_ki.json",
       "filename": "bn_yahodi_khristan_ra_ki.json"
+    },
+    {
+      "id": "bn_allahor_dorson",
+      "title": "আল্লাহর দর্শন",
+      "author": "আব্দুল্লাহ আল মামুন\nআল-আযহারী",
+      "category": "all",
+      "size_kb": 122,
+      "total_chapters": 1,
+      "total_paragraphs": 1087,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_allahor_dorson.json",
+      "filename": "bn_allahor_dorson.json"
+    },
+    {
+      "id": "bn_an_nawawir_40_hadith",
+      "title": "বিসমিল্লাহির রাহমানির\nরাহীম",
+      "author": "আন্‌-নওয়াবীর চল্লিশ হাদীস",
+      "category": "all",
+      "size_kb": 125,
+      "total_chapters": 1,
+      "total_paragraphs": 536,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_an_nawawir_40_hadith.json",
+      "filename": "bn_an_nawawir_40_hadith.json"
+    },
+    {
+      "id": "bn_aponar_nobike_chinun",
+      "title": "আপনার নবীকে চিনুন",
+      "author": "মুহাম্মাদ ইবন আহমদ ইবন\nমুহাম্মাদ আল-আম্মারী",
+      "category": "all",
+      "size_kb": 80,
+      "total_chapters": 1,
+      "total_paragraphs": 473,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_aponar_nobike_chinun.json",
+      "filename": "bn_aponar_nobike_chinun.json"
+    },
+    {
+      "id": "bn_aqida_of_ahle_sunnat_wal_jamaat_othaymeen_01",
+      "title": "আহলে সুন্নাত ওয়াল\nজামা‘আতের আকীদা",
+      "author": "[ বাংলা – Bengali – بنغالي ]",
+      "category": "all",
+      "size_kb": 198,
+      "total_chapters": 1,
+      "total_paragraphs": 748,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_aqida_of_ahle_sunnat_wal_jamaat_othaymeen_01.json",
+      "filename": "bn_aqida_of_ahle_sunnat_wal_jamaat_othaymeen_01.json"
+    },
+    {
+      "id": "bn_baqi_koborstaner_jiarot",
+      "title": "বাকী‘ কবরস্থানের যিয়ারত",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 27,
+      "total_chapters": 1,
+      "total_paragraphs": 110,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_baqi_koborstaner_jiarot.json",
+      "filename": "bn_baqi_koborstaner_jiarot.json"
+    },
+    {
+      "id": "bn_ekguccho_muktadana_islami_jibonbabostha_r_soundorjo",
+      "title": "একগুচ্ছ মুক্তাদানা: দ্বীনে\nইসলামীর সৌন্দর্য",
+      "author": "[ বাংলা – Bengali – بنغالي ]",
+      "category": "all",
+      "size_kb": 111,
+      "total_chapters": 1,
+      "total_paragraphs": 286,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_ekguccho_muktadana_islami_jibonbabostha_r_soundorjo.json",
+      "filename": "bn_ekguccho_muktadana_islami_jibonbabostha_r_soundorjo.json"
+    },
+    {
+      "id": "bn_ekhlas_er_oporiharjota_o_haj_kobule_tar_provab",
+      "title": "ইখলাসের অপরিহার্যতা ও হজ\nকবূলে তার প্রভাব",
+      "author": "ড. সালেহ ইবন আবদুল আযীয\nসিন্দী",
+      "category": "all",
+      "size_kb": 41,
+      "total_chapters": 1,
+      "total_paragraphs": 317,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_ekhlas_er_oporiharjota_o_haj_kobule_tar_provab.json",
+      "filename": "bn_ekhlas_er_oporiharjota_o_haj_kobule_tar_provab.json"
+    },
+    {
+      "id": "bn_elosol_fe_elsalat_wa_elsalam_3la_elrasol",
+      "title": "প্রথম সংস্করণ",
+      "author": "[সুনান নাসায়ী, হাদীস নং 1297 আল্লামা নাসেরুদ্দিন আল আলবাণী হাদীসটিকে সহীহ ( সঠিক ) বলেছেন]।",
+      "category": "all",
+      "size_kb": 71,
+      "total_chapters": 1,
+      "total_paragraphs": 192,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_elosol_fe_elsalat_wa_elsalam_3la_elrasol.json",
+      "filename": "bn_elosol_fe_elsalat_wa_elsalam_3la_elrasol.json"
+    },
+    {
+      "id": "bn_fidak_niye_fatima_o_abu_bokorer_maje_birodher_haqikot_docx",
+      "title": "ফিদাক নিয়ে ফাতিমা ও আবূ\nবকরের মাঝে বিরোধের হাকীকত",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 43,
+      "total_chapters": 1,
+      "total_paragraphs": 162,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_fidak_niye_fatima_o_abu_bokorer_maje_birodher_haqikot_docx.json",
+      "filename": "bn_fidak_niye_fatima_o_abu_bokorer_maje_birodher_haqikot_docx.json"
+    },
+    {
+      "id": "bn_kabol_el3aml_elsaleh",
+      "title": "ইসলাম ধর্মে সৎকর্ম কবুল হওয়ার শর্তাবলি",
+      "author": "প্রণয়নকারী",
+      "category": "all",
+      "size_kb": 47,
+      "total_chapters": 1,
+      "total_paragraphs": 117,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_kabol_el3aml_elsaleh.json",
+      "filename": "bn_kabol_el3aml_elsaleh.json"
+    },
+    {
+      "id": "bn_nobi_sallallahu_alaihi_wasallam_jevabe_pobitrota_orjon_korten",
+      "title": "নবী সাল্লাল্লাহু আলাইহি\nওয়াসাল্লাম যেভাবে\nপবিত্রতা অর্জন করতেন",
+      "author": "[ بنغالي –  Bengali – বাংলা ]",
+      "category": "all",
+      "size_kb": 574,
+      "total_chapters": 1,
+      "total_paragraphs": 2728,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_nobi_sallallahu_alaihi_wasallam_jevabe_pobitrota_orjon_korten.json",
+      "filename": "bn_nobi_sallallahu_alaihi_wasallam_jevabe_pobitrota_orjon_korten.json"
+    },
+    {
+      "id": "bn_nobi_sallallahu_alaihi_wasallamer_salat_adayer_poddhoti",
+      "title": "নবী []-এর সালাত আদায়ের\nপদ্ধতি",
+      "author": "[ بنغالي – Bengali – বাংলা ]",
+      "category": "all",
+      "size_kb": 71,
+      "total_chapters": 1,
+      "total_paragraphs": 266,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_nobi_sallallahu_alaihi_wasallamer_salat_adayer_poddhoti.json",
+      "filename": "bn_nobi_sallallahu_alaihi_wasallamer_salat_adayer_poddhoti.json"
+    },
+    {
+      "id": "bn_proshnottore_sohoj_tawhid_sikkhah",
+      "title": "প্রশ্নোত্তরে সহজ তাওহীদ\nশিক্ষ",
+      "author": "চার ইমামের আক্বীদা\nঅবলম্বনে",
+      "category": "all",
+      "size_kb": 276,
+      "total_chapters": 1,
+      "total_paragraphs": 1196,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_proshnottore_sohoj_tawhid_sikkhah.json",
+      "filename": "bn_proshnottore_sohoj_tawhid_sikkhah.json"
+    },
+    {
+      "id": "bn_rugir_oju_o_salat",
+      "title": "রোগীর অযু ও সালাত",
+      "author": "মুহাম্মাদ সালেহ আল-উসাইমীন",
+      "category": "all",
+      "size_kb": 19,
+      "total_chapters": 1,
+      "total_paragraphs": 153,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_rugir_oju_o_salat.json",
+      "filename": "bn_rugir_oju_o_salat.json"
+    },
+    {
+      "id": "bn_salat_salat",
+      "title": "সালাত সালাত",
+      "author": "সংযুক্তি",
+      "category": "all",
+      "size_kb": 59,
+      "total_chapters": 1,
+      "total_paragraphs": 279,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_salat_salat.json",
+      "filename": "bn_salat_salat.json"
+    },
+    {
+      "id": "bn_souvaggomoy_jiboner_purnango_upay_saadi",
+      "title": "সৌভাগ্যময় জীবনের\nপূর্ণাঙ্গ উপায়",
+      "author": "[ বাংলা – Bengali – بنغالي ]",
+      "category": "all",
+      "size_kb": 93,
+      "total_chapters": 1,
+      "total_paragraphs": 206,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_souvaggomoy_jiboner_purnango_upay_saadi.json",
+      "filename": "bn_souvaggomoy_jiboner_purnango_upay_saadi.json"
+    },
+    {
+      "id": "bn_ummater_upor_sahabider_odhikarsomuho",
+      "title": "উম্মতের ওপর সাহাবীগণের\nঅধিকারসমূহ",
+      "author": "[ بنغالي –  Bengali – বাংলা ]",
+      "category": "all",
+      "size_kb": 181,
+      "total_chapters": 1,
+      "total_paragraphs": 644,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_ummater_upor_sahabider_odhikarsomuho.json",
+      "filename": "bn_ummater_upor_sahabider_odhikarsomuho.json"
     }
   ]
 }
