@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "updated_at": "2026-09-26",
-  "total_books": 355,
+  "total_books": 361,
   "books": [
     {
       "id": "bn-maturidia",
@@ -3907,6 +3907,72 @@
       "total_paragraphs": 330,
       "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_zumar_diner_bidhan.json",
       "filename": "bn_zumar_diner_bidhan.json"
+    },
+    {
+      "id": "bn_04_mokhtart_min_alsunnah",
+      "title": "নির্বাচিত হাদীস",
+      "author": "1-সঠিক আকীদা বা ইসলামী মতবাদ।",
+      "category": "all",
+      "size_kb": 480,
+      "total_chapters": 2,
+      "total_paragraphs": 1153,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_04_mokhtart_min_alsunnah.json",
+      "filename": "bn_04_mokhtart_min_alsunnah.json"
+    },
+    {
+      "id": "bn_05_mokhtarat_mn_elsunnah",
+      "title": "নির্বাচিত হাদীস",
+      "author": "2- সঠিক আকীদা বা ইসলামী মতবাদ মোতাবেক আমল বা কার্য সম্পাদনের প্রতি উৎসাহ প্রদান।",
+      "category": "all",
+      "size_kb": 586,
+      "total_chapters": 11,
+      "total_paragraphs": 1273,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_05_mokhtarat_mn_elsunnah.json",
+      "filename": "bn_05_mokhtarat_mn_elsunnah.json"
+    },
+    {
+      "id": "bn_bivinno_dhormo_o_somprodaye_saom",
+      "title": "বিভিন্ন ধর্ম ও সম্প্রদায়ে সাওম",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 46,
+      "total_chapters": 1,
+      "total_paragraphs": 89,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_bivinno_dhormo_o_somprodaye_saom.json",
+      "filename": "bn_bivinno_dhormo_o_somprodaye_saom.json"
+    },
+    {
+      "id": "bn_elmoharm",
+      "title": "প্রথম সংস্করণ",
+      "author": "(সহীহ মুসলিম, হাদীস নং 202 - (1163)।",
+      "category": "all",
+      "size_kb": 24,
+      "total_chapters": 1,
+      "total_paragraphs": 68,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_elmoharm.json",
+      "filename": "bn_elmoharm.json"
+    },
+    {
+      "id": "bn_hadither_aloke_adorsho_shami",
+      "title": "হাদীসের আলোকে আদর্শ স্বামী",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 81,
+      "total_chapters": 1,
+      "total_paragraphs": 125,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_hadither_aloke_adorsho_shami.json",
+      "filename": "bn_hadither_aloke_adorsho_shami.json"
+    },
+    {
+      "id": "bn_sohih_hadith_e_qudsi",
+      "title": "সহীহ হাদীসে কুদসী",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 548,
+      "total_chapters": 1,
+      "total_paragraphs": 661,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_sohih_hadith_e_qudsi.json",
+      "filename": "bn_sohih_hadith_e_qudsi.json"
     }
   ]
 }
