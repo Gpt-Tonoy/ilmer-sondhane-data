@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "updated_at": "2026-09-25",
-  "total_books": 8,
+  "version": 3,
+  "updated_at": "2026-09-26",
+  "total_books": 35,
   "books": [
     {
       "id": "bn-maturidia",
@@ -90,6 +90,303 @@
       "total_paragraphs": 54,
       "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-bing-nub-muj-mjar-w.json",
       "filename": "bn-bing-nub-muj-mjar-w.json"
+    },
+    {
+      "id": "bn-bingh-nub-mug-3an-alis-musht-sgfhsth-vwqdvb-okjuu095678-w",
+      "title": "আল-কুরআনুল কারীম ও নবীর সুন্নাতের আলোকে ইসলামের সংক্ষিপ্ত পরিচিতি",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 588,
+      "total_chapters": 46,
+      "total_paragraphs": 928,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-bingh-nub-mug-3an-alis-musht-sgfhsth-vwqdvb-okjuu095678-w.json",
+      "filename": "bn-bingh-nub-mug-3an-alis-musht-sgfhsth-vwqdvb-okjuu095678-w.json"
+    },
+    {
+      "id": "bn-binj-ras-alis-sa-al-3al-wa-sal-w",
+      "title": "ইসলামের রাসূল মুহাম্মদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 73,
+      "total_chapters": 9,
+      "total_paragraphs": 77,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-binj-ras-alis-sa-al-3al-wa-sal-w.json",
+      "filename": "bn-binj-ras-alis-sa-al-3al-wa-sal-w.json"
+    },
+    {
+      "id": "bn-creed-of-four-imams",
+      "title": "চার ইমামের আকীদাহ Error! Bookmark not defined.",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 185,
+      "total_chapters": 9,
+      "total_paragraphs": 327,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-creed-of-four-imams.json",
+      "filename": "bn-creed-of-four-imams.json"
+    },
+    {
+      "id": "bn-kaifiat-salat-annabi-new-ww",
+      "title": "পরিপূর্ণভাবে অযু করা:",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 47,
+      "total_chapters": 11,
+      "total_paragraphs": 77,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-kaifiat-salat-annabi-new-ww.json",
+      "filename": "bn-kaifiat-salat-annabi-new-ww.json"
+    },
+    {
+      "id": "bn-tafser-asmaa-allah-alhosna",
+      "title": "আল্লাহর সুন্দর নামসমূহের ব্যাখ্যা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 433,
+      "total_chapters": 1,
+      "total_paragraphs": 751,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-tafser-asmaa-allah-alhosna.json",
+      "filename": "bn-tafser-asmaa-allah-alhosna.json"
+    },
+    {
+      "id": "bn-the-book-of-monotheism",
+      "title": "অজানা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 457,
+      "total_chapters": 69,
+      "total_paragraphs": 1242,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-the-book-of-monotheism.json",
+      "filename": "bn-the-book-of-monotheism.json"
+    },
+    {
+      "id": "bn_02_tafsir_muiassar",
+      "title": "আত-তাফসীর আল-মুইয়াসসার",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 271,
+      "total_chapters": 1,
+      "total_paragraphs": 345,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_02_tafsir_muiassar.json",
+      "filename": "bn_02_tafsir_muiassar.json"
+    },
+    {
+      "id": "bn_a7kam_takhos_elmoamenat",
+      "title": "মুমিন নারীদের বিশেষ বিধান",
+      "author": "নারী স্বীয় কাপড় ও পরিপূর্ণ পর্দা দ্বারা আচ্ছাদিত থাকবে, আয়েশা রাদিয়াল্লাহু ‘আনহা বলেন:",
+      "category": "all",
+      "size_kb": 386,
+      "total_chapters": 1,
+      "total_paragraphs": 880,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_a7kam_takhos_elmoamenat.json",
+      "filename": "bn_a7kam_takhos_elmoamenat.json"
+    },
+    {
+      "id": "bn_ashurar_din_shiader_kormokando_bidat_o_gumrahi",
+      "title": "আশুরার দিন শিয়াদের কর্মকাণ্ড বিদ‘আত ও গোমরাহী",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 24,
+      "total_chapters": 1,
+      "total_paragraphs": 28,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_ashurar_din_shiader_kormokando_bidat_o_gumrahi.json",
+      "filename": "bn_ashurar_din_shiader_kormokando_bidat_o_gumrahi.json"
+    },
+    {
+      "id": "bn_boidho_oboidher_mandonde_pobitro_makkar_bivinno_sthaner_sommanona",
+      "title": "বৈধ অবৈধের মানদণ্ডে পবিত্র মক্কার বিভিন্ন স্থানসমূহের সম্মাননা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 128,
+      "total_chapters": 1,
+      "total_paragraphs": 248,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_boidho_oboidher_mandonde_pobitro_makkar_bivinno_sthaner_sommanona.json",
+      "filename": "bn_boidho_oboidher_mandonde_pobitro_makkar_bivinno_sthaner_sommanona.json"
+    },
+    {
+      "id": "bn_boidho_oboidho_osila",
+      "title": "বৈধ ও অবৈধ অসীলা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 93,
+      "total_chapters": 1,
+      "total_paragraphs": 205,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_boidho_oboidho_osila.json",
+      "filename": "bn_boidho_oboidho_osila.json"
+    },
+    {
+      "id": "bn_diner_fiqh_totha_geyanoy_fitna_theke_basar_sothik_upay",
+      "title": "দীনের ফিক্‌হ তথা জ্ঞানই ফিতনা থেকে বাঁচার সঠিক উপায়",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 156,
+      "total_chapters": 1,
+      "total_paragraphs": 244,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_diner_fiqh_totha_geyanoy_fitna_theke_basar_sothik_upay.json",
+      "filename": "bn_diner_fiqh_totha_geyanoy_fitna_theke_basar_sothik_upay.json"
+    },
+    {
+      "id": "bn_islam_binostokari_bisoysomuho",
+      "title": "ইসলাম বিনষ্টকারী বিষয়সমূহ",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 24,
+      "total_chapters": 2,
+      "total_paragraphs": 60,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_islam_binostokari_bisoysomuho.json",
+      "filename": "bn_islam_binostokari_bisoysomuho.json"
+    },
+    {
+      "id": "bn_islamai_nitimalar_aloke_borkot_orjon",
+      "title": "ইসলামী নীতিমালার আলোকে",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 121,
+      "total_chapters": 1,
+      "total_paragraphs": 241,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_islamai_nitimalar_aloke_borkot_orjon.json",
+      "filename": "bn_islamai_nitimalar_aloke_borkot_orjon.json"
+    },
+    {
+      "id": "bn_kabor_jiarat_somporke_kotipoy_jal_hadith",
+      "title": "কবর যিয়ারত সংক্রান্ত কতিপয় জাল ও দুর্বল হাদীস",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 69,
+      "total_chapters": 1,
+      "total_paragraphs": 183,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_kabor_jiarat_somporke_kotipoy_jal_hadith.json",
+      "filename": "bn_kabor_jiarat_somporke_kotipoy_jal_hadith.json"
+    },
+    {
+      "id": "bn_keno_manus_sristi_kora_hoyece",
+      "title": "কেন মানুষ সৃষ্টি করা হয়েছে?",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 24,
+      "total_chapters": 1,
+      "total_paragraphs": 56,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_keno_manus_sristi_kora_hoyece.json",
+      "filename": "bn_keno_manus_sristi_kora_hoyece.json"
+    },
+    {
+      "id": "bn_kobor_ziarot_o_koborbasir_dara_sahajjer_abedon",
+      "title": "কবর যিয়ারত ও কবরবাসীর কাছে সাহায্যের আবেদন",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 254,
+      "total_chapters": 1,
+      "total_paragraphs": 468,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_kobor_ziarot_o_koborbasir_dara_sahajjer_abedon.json",
+      "filename": "bn_kobor_ziarot_o_koborbasir_dara_sahajjer_abedon.json"
+    },
+    {
+      "id": "bn_porda_akti_ibadat",
+      "title": "পর্দা একটি ইবাদত",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 69,
+      "total_chapters": 1,
+      "total_paragraphs": 162,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_porda_akti_ibadat.json",
+      "filename": "bn_porda_akti_ibadat.json"
+    },
+    {
+      "id": "bn_quran_o_sohih_hadither_aloke_bevichar_o_somokamitar_voyaboho_porinoti",
+      "title": "কুরআন ও সহীহ হাদীসের আলোকে",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 318,
+      "total_chapters": 1,
+      "total_paragraphs": 730,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_quran_o_sohih_hadither_aloke_bevichar_o_somokamitar_voyaboho_porinoti.json",
+      "filename": "bn_quran_o_sohih_hadither_aloke_bevichar_o_somokamitar_voyaboho_porinoti.json"
+    },
+    {
+      "id": "bn_sahabaye_keramer_obostan_o_morjadar_bishoye_ahle_sunanater_akida_biswash",
+      "title": "সাহাবায়ে কেরামের অবস্থান ও মর্যাদার বিষয়ে আহলে সুন্নাতের আকীদা-বিশ্বাস",
+      "author": "আমাদেরকে হাদীস বর্ণনা করেছেন ওকী‘ রহ., তিনি বলেন: আমি সুফিয়ানকে আল্লাহ তা‘আলার বাণী",
+      "category": "all",
+      "size_kb": 313,
+      "total_chapters": 1,
+      "total_paragraphs": 548,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_sahabaye_keramer_obostan_o_morjadar_bishoye_ahle_sunanater_akida_biswash.json",
+      "filename": "bn_sahabaye_keramer_obostan_o_morjadar_bishoye_ahle_sunanater_akida_biswash.json"
+    },
+    {
+      "id": "bn_salat_adayer_jonn_aso",
+      "title": "সালাত আদায়ের জন্য আসো",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 79,
+      "total_chapters": 1,
+      "total_paragraphs": 224,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_salat_adayer_jonn_aso.json",
+      "filename": "bn_salat_adayer_jonn_aso.json"
+    },
+    {
+      "id": "bn_salater_gurutto_o_fojilot",
+      "title": "সালাতের গুরুত্ব ও",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 91,
+      "total_chapters": 1,
+      "total_paragraphs": 204,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_salater_gurutto_o_fojilot.json",
+      "filename": "bn_salater_gurutto_o_fojilot.json"
+    },
+    {
+      "id": "bn_sohoz_fiqh_shikka",
+      "title": "সহজ ফিকহ শিক্ষা",
+      "author": "অমুসলিমের জামা কাপড় পবিত্র, যতক্ষণ তা অপবিত্র হওয়া নিশ্চিত না হয়।",
+      "category": "all",
+      "size_kb": 446,
+      "total_chapters": 1,
+      "total_paragraphs": 1603,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_sohoz_fiqh_shikka.json",
+      "filename": "bn_sohoz_fiqh_shikka.json"
+    },
+    {
+      "id": "bn_surah_an_naba-er_tafsir_qurtubi",
+      "title": "সূরা আন-নাবা-এর তাফসীর",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 134,
+      "total_chapters": 1,
+      "total_paragraphs": 164,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_surah_an_naba-er_tafsir_qurtubi.json",
+      "filename": "bn_surah_an_naba-er_tafsir_qurtubi.json"
+    },
+    {
+      "id": "bn_surah_at_tawbar_tafsir",
+      "title": "সূরা আত-তাওবার তাফসীর",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 781,
+      "total_chapters": 1,
+      "total_paragraphs": 614,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_surah_at_tawbar_tafsir.json",
+      "filename": "bn_surah_at_tawbar_tafsir.json"
+    },
+    {
+      "id": "bn_tawhid_poriciti",
+      "title": "তাওহীদ পরিচিতি",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 315,
+      "total_chapters": 1,
+      "total_paragraphs": 640,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_tawhid_poriciti.json",
+      "filename": "bn_tawhid_poriciti.json"
+    },
+    {
+      "id": "bn_yahodi_khristan_ra_ki",
+      "title": "ইয়াহূদী-খৃস্টানরা কি কাফির?",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 26,
+      "total_chapters": 1,
+      "total_paragraphs": 53,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_yahodi_khristan_ra_ki.json",
+      "filename": "bn_yahodi_khristan_ra_ki.json"
     }
   ]
 }

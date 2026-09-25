@@ -1,7 +1,7 @@
 {
   "id": "bn_islamer_rukonsomuher_sonkhipto_bekkha",
   "title": "ইসলামের রুকনসমূহের সংক্ষিপ্ত ব্যাখ্যা",
-  "author": "ইসলামহাউজ",
+  "author": "শরীর পাক হওয়া সম্পর্কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মুস্তাহাযাকে বলেছেন,",
   "bismillah": null,
   "language": "bn",
   "total_chapters": 1,
@@ -2167,5 +2167,6 @@
     }
   ],
   "source": "IslamHouse.com",
-  "license": "Free Dawah"
+  "license": "Free Dawah",
+  "format": "docx"
 }
