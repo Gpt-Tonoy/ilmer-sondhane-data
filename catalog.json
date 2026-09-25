@@ -1,57 +1,95 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-09-25",
-  "total_books": 3,
-  "categories": [
-    {
-      "id": "aqeedah",
-      "name_bn": "আকীদা",
-      "icon": "🕌"
-    },
-    {
-      "id": "fiqh",
-      "name_bn": "ফিকহ",
-      "icon": "📖"
-    },
-    {
-      "id": "dawah",
-      "name_bn": "দাওয়াহ",
-      "icon": "🌍"
-    }
-  ],
+  "total_books": 8,
   "books": [
     {
-      "id": "maturidi",
+      "id": "bn-maturidia",
       "title": "মাতুরিদী ফেরকার আকীদাহ",
       "author": "ডক্টর আব্দুল মাজীদ ইবনে মুহাম্মাদ আল-ওয়া’লান",
-      "category": "aqeedah",
-      "size_kb": 463,
+      "category": "all",
+      "size_kb": 462,
       "total_chapters": 9,
       "total_paragraphs": 831,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/maturidi.json",
-      "filename": "maturidi.json"
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-maturidia.json",
+      "filename": "bn-maturidia.json"
     },
     {
-      "id": "four_imams",
+      "id": "bn-creed-of-the-four-imams",
       "title": "চার ইমামের আকীদাহ",
       "author": "ইসলামহাউজ",
-      "category": "aqeedah",
-      "size_kb": 185,
+      "category": "all",
+      "size_kb": 184,
       "total_chapters": 9,
       "total_paragraphs": 323,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/four_imams.json",
-      "filename": "four_imams.json"
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-creed-of-the-four-imams.json",
+      "filename": "bn-creed-of-the-four-imams.json"
     },
     {
-      "id": "bing_nub",
+      "id": "bn_tawhider_kalema_la_ilaha_illallah",
+      "title": "তাওহীদের কালেমা: লা-ইলাহা ইল্লাল্লাহ",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 164,
+      "total_chapters": 1,
+      "total_paragraphs": 341,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_tawhider_kalema_la_ilaha_illallah.json",
+      "filename": "bn_tawhider_kalema_la_ilaha_illallah.json"
+    },
+    {
+      "id": "bn_shariat_er_soyongsompornota_o_bidat_er_boyabohota",
+      "title": "শরীআতের স্বয়ংসম্পূর্ণতা ও বিদআতের ভয়াবহতা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 90,
+      "total_chapters": 1,
+      "total_paragraphs": 139,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_shariat_er_soyongsompornota_o_bidat_er_boyabohota.json",
+      "filename": "bn_shariat_er_soyongsompornota_o_bidat_er_boyabohota.json"
+    },
+    {
+      "id": "bn_islamer_rukonsomuher_sonkhipto_bekkha",
+      "title": "ইসলামের রুকনসমূহের সংক্ষিপ্ত ব্যাখ্যা",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 812,
+      "total_chapters": 1,
+      "total_paragraphs": 2153,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_islamer_rukonsomuher_sonkhipto_bekkha.json",
+      "filename": "bn_islamer_rukonsomuher_sonkhipto_bekkha.json"
+    },
+    {
+      "id": "bn_muslim_ummar_jonno_guruttopurno_darser_sathe_songslisto_bidhi_bidhan",
+      "title": "মুসলিম উম্মাহর জন্য গুরুত্বপূর্ণ দরসের সাথে সংশ্লিষ্ট বিধান",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 241,
+      "total_chapters": 1,
+      "total_paragraphs": 723,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_muslim_ummar_jonno_guruttopurno_darser_sathe_songslisto_bidhi_bidhan.json",
+      "filename": "bn_muslim_ummar_jonno_guruttopurno_darser_sathe_songslisto_bidhi_bidhan.json"
+    },
+    {
+      "id": "bn_oti_guruttopurno",
+      "title": "অতি গুরুত্বপূর্ণ কতিপয় প্রশ্নোত্তর",
+      "author": "ইসলামহাউজ",
+      "category": "all",
+      "size_kb": 195,
+      "total_chapters": 1,
+      "total_paragraphs": 222,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn_oti_guruttopurno.json",
+      "filename": "bn_oti_guruttopurno.json"
+    },
+    {
+      "id": "bn-bing-nub-muj-mjar-w",
       "title": "আল-কুরআনুল কারীম ও নবীর সুন্নাতের আলোকে ইসলামের সংক্ষিপ্ত পরিচিতি",
       "author": "ইসলামহাউজ",
-      "category": "dawah",
-      "size_kb": 39,
+      "category": "all",
+      "size_kb": 38,
       "total_chapters": 1,
       "total_paragraphs": 54,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bing_nub.json",
-      "filename": "bing_nub.json"
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bn-bing-nub-muj-mjar-w.json",
+      "filename": "bn-bing-nub-muj-mjar-w.json"
     }
   ]
 }
