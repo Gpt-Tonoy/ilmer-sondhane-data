@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-25",
+  "total_books": 3,
+  "categories": [
+    {
+      "id": "aqeedah",
+      "name_bn": "আকীদা",
+      "icon": "🕌"
+    },
+    {
+      "id": "fiqh",
+      "name_bn": "ফিকহ",
+      "icon": "📖"
+    },
+    {
+      "id": "dawah",
+      "name_bn": "দাওয়াহ",
+      "icon": "🌍"
+    }
+  ],
+  "books": [
+    {
+      "id": "maturidi",
+      "title": "মাতুরিদী ফেরকার আকীদাহ",
+      "author": "ডক্টর আব্দুল মাজীদ ইবনে মুহাম্মাদ আল-ওয়া’লান",
+      "category": "aqeedah",
+      "size_kb": 463,
+      "total_chapters": 9,
+      "total_paragraphs": 831,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/maturidi.json",
+      "filename": "maturidi.json"
+    },
+    {
+      "id": "four_imams",
+      "title": "চার ইমামের আকীদাহ",
+      "author": "ইসলামহাউজ",
+      "category": "aqeedah",
+      "size_kb": 185,
+      "total_chapters": 9,
+      "total_paragraphs": 323,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/four_imams.json",
+      "filename": "four_imams.json"
+    },
+    {
+      "id": "bing_nub",
+      "title": "আল-কুরআনুল কারীম ও নবীর সুন্নাতের আলোকে ইসলামের সংক্ষিপ্ত পরিচিতি",
+      "author": "ইসলামহাউজ",
+      "category": "dawah",
+      "size_kb": 39,
+      "total_chapters": 1,
+      "total_paragraphs": 54,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/books/bing_nub.json",
+      "filename": "bing_nub.json"
+    }
+  ]
+}
