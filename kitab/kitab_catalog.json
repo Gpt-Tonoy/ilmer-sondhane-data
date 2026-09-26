@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-26",
+  "total_kitabs": 6,
+  "total_hadith": 34043,
+  "cdn_base": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/kitab",
+  "index_url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/kitab/books_index.db.gz",
+  "kitabs": [
+    { "id": 1, "name_bn": "সহীহ বুখারী", "name_ar": "صحيح البخاري", "slug": "bukhari", "total_hadith": 7513, "file": "book_bukhari.db.gz" },
+    { "id": 2, "name_bn": "সহীহ মুসলিম", "name_ar": "صحيح مسلم", "slug": "muslim", "total_hadith": 7243, "file": "book_muslim.db.gz" },
+    { "id": 3, "name_bn": "সুনান আবু দাউদ", "name_ar": "سنن أبي داود", "slug": "abudaud", "total_hadith": 5254, "file": "book_abudaud.db.gz" },
+    { "id": 4, "name_bn": "জামে আত-তিরমিযী", "name_ar": "جامع الترمذي", "slug": "tirmizi", "total_hadith": 3937, "file": "book_tirmizi.db.gz" },
+    { "id": 5, "name_bn": "সুনান আন-নাসাঈ", "name_ar": "سنن النسائي", "slug": "anasai", "total_hadith": 5757, "file": "book_anasai.db.gz" },
+    { "id": 6, "name_bn": "সুনান ইবনে মাজাহ", "name_ar": "سنن ابن ماجه", "slug": "ibnemazah", "total_hadith": 4339, "file": "book_ibnemazah.db.gz" }
+  ]
+}
