@@ -104,7 +104,7 @@
       "size_kb": 739,
       "total_chapters": 1,
       "total_paragraphs": 3140,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/dua/dua-all.json",
+      "url": "https://raw.githubusercontent.com/Gpt-Tonoy/ilmer-sondhane-data/main/dua/dua-all.json",
       "filename": "dua-all.json"
     }
   ],
