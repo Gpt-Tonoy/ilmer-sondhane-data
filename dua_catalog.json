@@ -1,6 +1,7 @@
 {
-  "version": 1,
-  "total_books": 3,
+  "version": 2,
+  "updated_at": "2026-10-11",
+  "total_books": 1,
   "total_categories": 18,
   "categories": [
     {
@@ -96,37 +97,15 @@
   ],
   "books": [
     {
-      "id": "dua-hisnul-muslim",
-      "title": "হিসনুল মুসলিম",
-      "author": "সাঈদ ইবন আলী ইবন ওয়াহফ আল-কাহতানী",
+      "id": "dua-all",
+      "title": "সকল দোয়া",
+      "author": "হিসনুল মুসলিম ও অন্যান্য",
       "category": "dua",
-      "size_kb": 595,
-      "total_chapters": 133,
-      "total_paragraphs": 2155,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/dua/dua-hisnul-muslim.json",
-      "filename": "dua-hisnul-muslim.json"
-    },
-    {
-      "id": "dua-quran",
-      "title": "কুরআনের দুআসমূহ",
-      "author": "—",
-      "category": "dua",
-      "size_kb": 119,
-      "total_chapters": 77,
-      "total_paragraphs": 595,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/dua/dua-quran.json",
-      "filename": "dua-quran.json"
-    },
-    {
-      "id": "dua-special-zikr",
-      "title": "বিশেষ যিকর ও দুআ",
-      "author": "—",
-      "category": "dua",
-      "size_kb": 57,
-      "total_chapters": 9,
-      "total_paragraphs": 223,
-      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/dua/dua-special-zikr.json",
-      "filename": "dua-special-zikr.json"
+      "size_kb": 739,
+      "total_chapters": 1,
+      "total_paragraphs": 3140,
+      "url": "https://cdn.jsdelivr.net/gh/Gpt-Tonoy/ilmer-sondhane-data@main/dua/dua-all.json",
+      "filename": "dua-all.json"
     }
   ],
   "source": "Hisnul Muslim Dua API",
